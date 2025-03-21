@@ -40,9 +40,13 @@ public class MakeMyTripService {
 	    }
 
 	    return Arrays.asList(body);
-		
-		
+	
 	
 	}
+
+	public List<Ticket> getAllTickets(){
+
+}
+	
 
 }
